@@ -1,8 +1,5 @@
-<<<<<<< HEAD
+
 import { PropsWithChildren, useEffect, useState } from "react";
-=======
-import { lazy, PropsWithChildren, Suspense, useEffect, useState } from "react";
->>>>>>> c637911dca19b82e9308bf55c6ce39781545f6e0
 import About from "./About";
 import Career from "./Career";
 import Contact from "./Contact";
