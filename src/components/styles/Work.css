@@ -11,6 +11,7 @@
   height: 100vh;
   box-sizing: border-box;
   will-change: transform;
+  overflow: hidden;
 }
 .work-container {
   margin: auto;
@@ -126,8 +127,10 @@
   object-fit: cover;
 }
 .work-image img {
-  max-width: 100%;
+  width: 100%;
+  height: auto;
   max-height: 350px;
+  object-fit: cover;
 }
 @media only screen and (max-height: 900px) {
   .work-image img {

@@ -4,11 +4,11 @@ const About = () => {
   return (
     <div className="about-section" id="about">
       <div className="about-me">
-        <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          A passionate Computer Science Undergraduate and Software Developer with a strong interest in
+          software engineering, problem-solving, and emerging technologies. Eager
+          to learn, explore innovative solutions, and apply technical knowledge
+          to real-world problems.
         </p>
       </div>
     </div>
