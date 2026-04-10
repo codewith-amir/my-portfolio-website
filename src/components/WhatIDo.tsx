@@ -125,15 +125,15 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
             <div className="what-content-in">
               <h3>AI DEVELOPMENT</h3>
-              <h4>Intelligent Systems</h4>
+              <h4>Exploring AI/ML</h4>
               <p>
-                Specializing in integrating generative AI into modern web applications to enhance user interaction and automate complex tasks.
+                Actively exploring AI/ML fundamentals and learning how intelligent systems work. Passionate about building AI-aware applications as the technology evolves.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">LLMs</div>
-                <div className="what-tags">Prompt Engineering</div>
-                <div className="what-tags">Automation</div>
+                <div className="what-tags">AI/ML</div>
+                <div className="what-tags">Python</div>
+                <div className="what-tags">Learning</div>
               </div>
               <div className="what-arrow"></div>
             </div>
