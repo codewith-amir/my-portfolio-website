@@ -15,8 +15,8 @@ const textureLoader = new THREE.TextureLoader();
 const imageUrls = [
   "/images/JAVA.webp",
   "/images/PYTHON.webp",
-  "/images/C1.webp",
-  "/images/PYTHON1.webp",
+  "/images/C 1.webp",
+  "/images/PYTHON 1.webp",
   "/images/JAVA1.webp",
   "/images/C++.webp",
   "/images/C.webp",
