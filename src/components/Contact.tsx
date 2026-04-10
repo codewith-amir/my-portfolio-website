@@ -40,7 +40,7 @@ const Contact = () => {
               Linkedin <MdArrowOutward />
             </a>
             <a
-              href="https://x.com"
+              href="https://x.com/MuhammadAamirPK"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -61,7 +61,7 @@ const Contact = () => {
               Designed and Developed <br /> by <span>Muhammad Amir</span>
             </h2>
             <h5>
-              <MdCopyright /> 2025
+              <MdCopyright /> 2026
             </h5>
           </div>
         </div>
